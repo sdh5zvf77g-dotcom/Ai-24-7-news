@@ -1,0 +1,117 @@
+{
+ "updated": "2026-10-14T14:00:00+00:00",
+ "items": [
+  {
+   "title": "Mistral launches 1T-parameter Le Chonk",
+   "link": "https://digg.com/ai/qyieg39r",
+   "source": "Digg",
+   "summary": "Open weights reportedly to follow soon.",
+   "company": "Mistral",
+   "date": "2026-10-06T00:00:00+00:00"
+  },
+  {
+   "title": "Claude arrives in Google Docs, Sheets and Slides",
+   "link": "https://digg.com/ai/qyieg39r",
+   "source": "Digg",
+   "summary": "Part of a very heavy AI release day.",
+   "company": "Anthropic",
+   "date": "2026-10-06T00:00:00+00:00"
+  },
+  {
+   "title": "Embedding Gemma 2 and Nano Banana 2.1",
+   "link": "https://digg.com/ai/qyieg39r",
+   "source": "Digg",
+   "summary": "On-device embedding model plus an image model update.",
+   "company": "Google",
+   "date": "2026-10-06T00:00:00+00:00"
+  },
+  {
+   "title": "OpenAI opens up its Decisions API",
+   "link": "https://digg.com/ai/qyieg39r",
+   "source": "Digg",
+   "summary": "A multimodal API aimed at rival offerings.",
+   "company": "OpenAI",
+   "date": "2026-10-06T00:00:00+00:00"
+  },
+  {
+   "title": "Perplexity open-sources Decider v1.1",
+   "link": "https://digg.com/ai/qyieg39r",
+   "source": "Digg",
+   "summary": "Open weights with a price cut of roughly half.",
+   "company": "Other",
+   "date": "2026-10-06T00:00:00+00:00"
+  },
+  {
+   "title": "Meta, Stripe and Shopify announce an Agent Protocol",
+   "link": "https://digg.com/ai/qyieg39r",
+   "source": "Digg",
+   "summary": "A shared standard for AI assistants acting across commerce tools.",
+   "company": "Meta",
+   "date": "2026-10-06T00:00:00+00:00"
+  },
+  {
+   "title": "Claude Fable 5.1 tops weekly rankings",
+   "link": "https://lmmarketcap.com/weekly/2026-w40",
+   "source": "LM Market Cap",
+   "summary": "#1 with a score of 96; Sonnet 5.5, GPT-6.1 Sol and Sol Pro entered the rankings.",
+   "company": "Anthropic",
+   "date": "2026-10-04T00:00:00+00:00"
+  },
+  {
+   "title": "Fable 5.1 jumps on Terminal-Bench 4.0",
+   "link": "https://thursdai.news/releases/2026-09",
+   "source": "ThursdAI",
+   "summary": "Scores 55.8, up from 42.0 for Fable 5.",
+   "company": "Anthropic",
+   "date": "2026-09-30T00:00:00+00:00"
+  },
+  {
+   "title": "Qwen3.8-Max-0902",
+   "link": "https://thursdai.news/releases/2026-09",
+   "source": "ThursdAI",
+   "summary": "API-only, 2.4T parameters, 1M context, $2/$6 per million tokens.",
+   "company": "Qwen",
+   "date": "2026-09-03T00:00:00+00:00"
+  },
+  {
+   "title": "GPT-6.1 Astra reportedly planned for October",
+   "link": "https://www.thehansindia.com/tech/upcoming-ai-updates-in-october-2026-major-developments-to-watch-1127036",
+   "source": "The Hans India",
+   "summary": "Not officially confirmed.",
+   "company": "OpenAI",
+   "date": "2026-10-05T00:00:00+00:00"
+  },
+  {
+   "title": "Gemini 4 not yet dated",
+   "link": "https://www.thehansindia.com/tech/upcoming-ai-updates-in-october-2026-major-developments-to-watch-1127036",
+   "source": "The Hans India",
+   "summary": "Looks more like later 2026 than October.",
+   "company": "Google",
+   "date": "2026-10-05T00:00:00+00:00"
+  },
+  {
+   "title": "Meta 'Watermelon' flagship and 'Hatch' agent platform",
+   "link": "https://www.thehansindia.com/tech/upcoming-ai-updates-in-october-2026-major-developments-to-watch-1127036",
+   "source": "The Hans India",
+   "summary": "Linked to October but unconfirmed.",
+   "company": "Meta",
+   "date": "2026-10-05T00:00:00+00:00"
+  },
+  {
+   "title": "Possible October releases",
+   "link": "https://manifold.markets/prismatic/october-2026-ai-model-releases",
+   "source": "Manifold",
+   "summary": "Grok 4.8, Kimi K3.1, DeepSeek V4.1 Pro, GLM-5.4, Qwen 4 are tracked.",
+   "company": "Other",
+   "date": "2026-10-01T00:00:00+00:00"
+  },
+  {
+   "title": "23 new models from 15 providers in September",
+   "link": "https://blog.mean.ceo/?p=10962",
+   "source": "MEAN CEO",
+   "summary": "Release pace keeps climbing.",
+   "company": "Other",
+   "date": "2026-10-01T00:00:00+00:00"
+  }
+ ]
+}
